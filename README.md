@@ -1,6 +1,1 @@
-[Index.html](https://github.com/user-attachments/files/23779595/Index.html)
-![Uploading mypic.jpg…]()
-[Portfolio.html](https://github.com/user-attachments/files/23779620/Portfolio.html)
-[About.html](https://github.com/user-attachments/files/23779621/About.html)
-[Favorites.html](https://github.com/user-attachments/files/23779629/Favorites.html)
-[Contact.html](https://github.com/user-attachments/files/23779624/Contact.html)
+
